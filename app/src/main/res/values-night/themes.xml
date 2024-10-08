@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.YourApp" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <!-- Ubah warna status bar di sini -->
+        <item name="android:statusBarColor">#f2a3ac</item> <!-- Warna status bar -->
+        <item name="colorPrimaryDark">#f2a3ac</item> <!-- Untuk tema yang mendukung API lama -->
+    </style>
+
+</resources>

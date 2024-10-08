@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.SignupLoginRealtime" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android:statusBarColor">#f2a3ac</item> <!-- Warna status bar -->
+        <item name="colorPrimaryDark">#f2a3ac</item>
+    </style>
+
+    <style name="Theme.SignupLoginRealtime" parent="Base.Theme.SignupLoginRealtime" />
+</resources>
