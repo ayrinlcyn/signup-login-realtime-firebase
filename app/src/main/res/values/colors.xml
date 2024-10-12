@@ -3,7 +3,8 @@
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
     <color name="pink">#F0A8D0</color>
-    <color name="grey">#ff424242</color>
+    <color name="grey">#8C8C8C</color>
     <color name="pink2">#f2a3ac</color>
     <color name="pink3">#ee698c</color>
+    <color name="brown">#FFEBD4</color>
 </resources>
